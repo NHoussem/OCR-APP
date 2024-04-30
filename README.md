@@ -5,3 +5,4 @@ creating and using a database with reference images and comparing them with inpu
 ![unnamed](https://github.com/NHoussem/OCR-APP/assets/91151740/9dd28266-abd7-4adc-90e2-03f698110440)
 
 ![unnamed (1)](https://github.com/NHoussem/OCR-APP/assets/91151740/7e5c7e3e-0f1b-4bfb-9dd0-2e3071d40b5d)
+![unnamed (2)](https://github.com/NHoussem/OCR-APP/assets/91151740/9bf4961f-aea0-4c96-be4b-a3c102e6f789)
